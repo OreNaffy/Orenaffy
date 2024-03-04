@@ -1,7 +1,7 @@
-# About Me 😊😊
+# **About Me** ✨✨
 
 
-**OreNaffy/Orenaffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 New to the Data world, I'm eager to start my career as a Data Analyst and look forward to buiding projects that impacts decision making.
 - 🌱 I’m still developing my skills in Excel, SQL, Power BI. I will definitely get on with Python and R soon.
